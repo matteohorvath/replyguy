@@ -1,5 +1,5 @@
 {
-  "name": "My Twitter (X) AI Reply Extension",
+  "name": "Twitter (X) AI Reply Extension",
   "version": "1.0",
   "description": "Adds a button to generate AI-based replies on Twitter (X).",
   "manifest_version": 3,
